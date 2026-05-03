@@ -39,7 +39,8 @@ The dataset contains customer-related information such as:
 ---
 
 ## 📂 Project Files  
-- `customer_shopping_behavior.csv` – Raw dataset 
+- `customer_shopping_behavior.csv` – Raw dataset
+- `Customer_Behavior.ipynb` – Data Cleaning & EDA
 - `customer_behavior.pbix` – Power BI dashboard  
 
 ---
